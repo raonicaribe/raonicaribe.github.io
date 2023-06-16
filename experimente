@@ -44,6 +44,7 @@
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="sobre.html">Sobre</a></li>
+                        <li><a href="experimente.html">Experimente</a></li>
                         <li><a href="contato.html">Contato</a></li>
                     </ul>
                 </nav>
@@ -51,7 +52,7 @@
         </header>
 
         <main>
-            <article class="sobre">
+            <article class="experimente">
                 <section class="foto-social">
                     <div class="foto">
                         <img src="./img/homem.jpg" alt="Minha foto" title="colocar meu nome">
